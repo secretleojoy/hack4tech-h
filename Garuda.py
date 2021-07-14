@@ -2,7 +2,7 @@
 # coding=utf-8
 
 """
-Garuda is a powerful integration tool
+Garuda is a powerful integration tool 
 
 :copyright: Copyright (c) 2021, hareesh. All rights reserved.
 :license: GNU General Public License v3.0, see LICENSE for more details.
